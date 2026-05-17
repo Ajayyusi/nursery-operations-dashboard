@@ -1,0 +1,56 @@
+Active Students =
+CALCULATE(
+    DISTINCTCOUNT(Students[student_id]),
+    Students[status] = "Active"
+)
+
+Total Capacity =
+SUM(Classes[capacity])
+
+Occupancy Rate =
+DIVIDE([Active Students], [Total Capacity])
+
+Total Fees Due =
+SUM(Payments[amount_due])
+
+Total Fees Collected =
+SUM(Payments[amount_paid])
+
+Outstanding Fees =
+SUM(Payments[outstanding_amount])
+
+Collection Rate =
+DIVIDE([Total Fees Collected], [Total Fees Due])
+
+Total Expenses =
+SUM(Expenses[amount])
+
+Operating Profit =
+[Total Fees Collected] - [Total Expenses]
+
+Attendance Records =
+COUNTROWS(Attendance)
+
+Present Records =
+CALCULATE(
+    COUNTROWS(Attendance),
+    Attendance[attendance_status] = "Present"
+)
+
+Attendance Rate =
+DIVIDE([Present Records], [Attendance Records])
+
+Total Inquiries =
+COUNTROWS(Leads)
+
+Converted Inquiries =
+CALCULATE(
+    COUNTROWS(Leads),
+    Leads[lead_status] = "Converted"
+)
+
+Lead Conversion Rate =
+DIVIDE([Converted Inquiries], [Total Inquiries])
+
+Monthly Enrollment =
+DISTINCTCOUNT(Students[student_id])

@@ -1,0 +1,16 @@
+{
+  "name": "Nursery Operations BI Theme",
+  "dataColors": [
+    "#2563EB",
+    "#10B981",
+    "#F59E0B",
+    "#EF4444",
+    "#8B5CF6",
+    "#06B6D4",
+    "#84CC16",
+    "#F97316"
+  ],
+  "background": "#F5F7FB",
+  "foreground": "#111827",
+  "tableAccent": "#2563EB"
+}

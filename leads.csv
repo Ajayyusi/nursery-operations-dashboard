@@ -1,0 +1,387 @@
+lead_id,inquiry_date,source,lead_status
+1,2025-01-18,Facebook,Follow-up
+2,2025-01-16,Instagram,Follow-up
+3,2025-01-27,Referral,Follow-up
+4,2025-01-12,Google Search,Lost
+5,2025-01-23,Instagram,Converted
+6,2025-01-22,Referral,Converted
+7,2025-01-09,Referral,Lost
+8,2025-01-11,Instagram,Follow-up
+9,2025-01-19,Google Search,Follow-up
+10,2025-01-17,Google Search,Lost
+11,2025-01-02,Instagram,Converted
+12,2025-01-26,Instagram,Follow-up
+13,2025-01-18,Walk-in,Lost
+14,2025-01-03,Referral,Converted
+15,2025-01-23,Website,Converted
+16,2025-01-14,Facebook,Converted
+17,2025-01-24,Walk-in,Follow-up
+18,2025-01-26,Instagram,Converted
+19,2025-01-05,Instagram,Converted
+20,2025-01-14,Referral,Follow-up
+21,2025-01-01,Referral,Lost
+22,2025-01-01,Referral,Lost
+23,2025-01-03,Google Search,Converted
+24,2025-01-23,Referral,Follow-up
+25,2025-01-19,Google Search,Converted
+26,2025-01-15,Referral,Lost
+27,2025-01-22,Website,Converted
+28,2025-01-24,Walk-in,Converted
+29,2025-01-22,Facebook,Follow-up
+30,2025-01-06,Walk-in,Lost
+31,2025-01-26,Instagram,Lost
+32,2025-01-23,Walk-in,Converted
+33,2025-01-09,Website,Lost
+34,2025-02-22,Instagram,Follow-up
+35,2025-02-23,Google Search,Follow-up
+36,2025-02-04,Referral,Follow-up
+37,2025-02-19,Walk-in,Follow-up
+38,2025-02-23,Facebook,Lost
+39,2025-02-15,Instagram,Converted
+40,2025-02-23,Instagram,Follow-up
+41,2025-02-24,Google Search,Converted
+42,2025-02-21,Instagram,Converted
+43,2025-02-25,Referral,Follow-up
+44,2025-02-17,Instagram,Lost
+45,2025-02-11,Google Search,Follow-up
+46,2025-02-13,Referral,Converted
+47,2025-02-23,Referral,Follow-up
+48,2025-02-03,Referral,Follow-up
+49,2025-02-02,Google Search,Lost
+50,2025-02-01,Walk-in,Follow-up
+51,2025-02-16,Instagram,Converted
+52,2025-02-13,Walk-in,Follow-up
+53,2025-02-08,Google Search,Converted
+54,2025-02-25,Facebook,Lost
+55,2025-02-23,Referral,Follow-up
+56,2025-02-10,Walk-in,Lost
+57,2025-02-15,Google Search,Follow-up
+58,2025-02-20,Referral,Follow-up
+59,2025-03-13,Website,Lost
+60,2025-03-05,Walk-in,Converted
+61,2025-03-06,Walk-in,Lost
+62,2025-03-07,Referral,Converted
+63,2025-03-07,Instagram,Converted
+64,2025-03-10,Instagram,Follow-up
+65,2025-03-05,Google Search,Follow-up
+66,2025-03-20,Instagram,Follow-up
+67,2025-03-02,Instagram,Follow-up
+68,2025-03-18,Referral,Converted
+69,2025-03-12,Instagram,Converted
+70,2025-03-23,Google Search,Converted
+71,2025-03-14,Website,Converted
+72,2025-03-04,Facebook,Converted
+73,2025-03-22,Facebook,Converted
+74,2025-03-20,Google Search,Converted
+75,2025-03-07,Instagram,Follow-up
+76,2025-03-15,Google Search,Converted
+77,2025-03-11,Google Search,Follow-up
+78,2025-03-06,Instagram,Follow-up
+79,2025-03-07,Google Search,Lost
+80,2025-03-10,Instagram,Follow-up
+81,2025-03-18,Instagram,Lost
+82,2025-04-25,Google Search,Lost
+83,2025-04-10,Google Search,Follow-up
+84,2025-04-17,Referral,Follow-up
+85,2025-04-17,Google Search,Converted
+86,2025-04-17,Instagram,Follow-up
+87,2025-04-22,Website,Lost
+88,2025-04-03,Walk-in,Follow-up
+89,2025-04-07,Walk-in,Converted
+90,2025-04-21,Instagram,Follow-up
+91,2025-04-15,Google Search,Converted
+92,2025-04-13,Google Search,Converted
+93,2025-04-20,Google Search,Lost
+94,2025-04-07,Instagram,Lost
+95,2025-04-04,Google Search,Lost
+96,2025-04-05,Google Search,Lost
+97,2025-04-09,Referral,Lost
+98,2025-04-26,Walk-in,Converted
+99,2025-04-11,Google Search,Follow-up
+100,2025-04-09,Google Search,Converted
+101,2025-04-16,Walk-in,Converted
+102,2025-04-24,Referral,Follow-up
+103,2025-04-12,Referral,Lost
+104,2025-04-13,Referral,Converted
+105,2025-04-27,Instagram,Lost
+106,2025-04-24,Referral,Converted
+107,2025-04-24,Instagram,Converted
+108,2025-04-14,Walk-in,Converted
+109,2025-04-12,Google Search,Follow-up
+110,2025-04-26,Referral,Follow-up
+111,2025-04-02,Google Search,Lost
+112,2025-04-26,Referral,Lost
+113,2025-04-11,Website,Follow-up
+114,2025-04-26,Walk-in,Follow-up
+115,2025-04-16,Google Search,Converted
+116,2025-04-07,Referral,Lost
+117,2025-04-09,Instagram,Converted
+118,2025-04-06,Instagram,Lost
+119,2025-04-25,Instagram,Follow-up
+120,2025-04-04,Walk-in,Converted
+121,2025-05-10,Google Search,Lost
+122,2025-05-10,Website,Follow-up
+123,2025-05-13,Instagram,Lost
+124,2025-05-17,Facebook,Follow-up
+125,2025-05-22,Website,Follow-up
+126,2025-05-20,Instagram,Follow-up
+127,2025-05-07,Google Search,Converted
+128,2025-05-14,Instagram,Converted
+129,2025-05-03,Google Search,Lost
+130,2025-05-19,Facebook,Lost
+131,2025-05-05,Google Search,Converted
+132,2025-05-09,Google Search,Follow-up
+133,2025-05-27,Instagram,Lost
+134,2025-05-26,Referral,Converted
+135,2025-05-16,Google Search,Converted
+136,2025-05-18,Instagram,Lost
+137,2025-05-07,Instagram,Lost
+138,2025-05-08,Instagram,Converted
+139,2025-05-07,Referral,Converted
+140,2025-05-17,Instagram,Converted
+141,2025-05-07,Website,Converted
+142,2025-05-02,Instagram,Converted
+143,2025-05-21,Instagram,Converted
+144,2025-05-18,Facebook,Lost
+145,2025-05-19,Website,Lost
+146,2025-05-27,Instagram,Follow-up
+147,2025-06-14,Instagram,Follow-up
+148,2025-06-05,Walk-in,Converted
+149,2025-06-14,Referral,Follow-up
+150,2025-06-10,Google Search,Follow-up
+151,2025-06-05,Referral,Converted
+152,2025-06-11,Google Search,Lost
+153,2025-06-24,Referral,Lost
+154,2025-06-19,Facebook,Lost
+155,2025-06-25,Walk-in,Lost
+156,2025-06-02,Instagram,Converted
+157,2025-06-08,Referral,Converted
+158,2025-06-23,Referral,Converted
+159,2025-06-04,Google Search,Lost
+160,2025-06-17,Instagram,Lost
+161,2025-06-05,Walk-in,Follow-up
+162,2025-06-16,Referral,Converted
+163,2025-06-07,Instagram,Lost
+164,2025-06-11,Referral,Follow-up
+165,2025-06-05,Facebook,Converted
+166,2025-06-11,Instagram,Lost
+167,2025-06-15,Referral,Lost
+168,2025-06-18,Instagram,Lost
+169,2025-06-10,Instagram,Follow-up
+170,2025-06-01,Instagram,Follow-up
+171,2025-06-20,Referral,Converted
+172,2025-06-27,Website,Lost
+173,2025-06-26,Referral,Converted
+174,2025-06-01,Referral,Converted
+175,2025-06-28,Instagram,Converted
+176,2025-06-06,Referral,Converted
+177,2025-06-26,Walk-in,Follow-up
+178,2025-06-27,Google Search,Lost
+179,2025-06-25,Referral,Converted
+180,2025-06-28,Website,Follow-up
+181,2025-06-03,Referral,Converted
+182,2025-06-05,Google Search,Converted
+183,2025-06-23,Referral,Follow-up
+184,2025-06-04,Instagram,Lost
+185,2025-06-24,Instagram,Lost
+186,2025-06-24,Google Search,Converted
+187,2025-07-04,Instagram,Converted
+188,2025-07-18,Instagram,Follow-up
+189,2025-07-11,Instagram,Follow-up
+190,2025-07-19,Google Search,Lost
+191,2025-07-20,Google Search,Lost
+192,2025-07-16,Instagram,Lost
+193,2025-07-13,Website,Lost
+194,2025-07-03,Instagram,Follow-up
+195,2025-07-18,Walk-in,Follow-up
+196,2025-07-24,Instagram,Lost
+197,2025-07-28,Referral,Lost
+198,2025-07-24,Google Search,Lost
+199,2025-07-09,Website,Converted
+200,2025-07-13,Google Search,Lost
+201,2025-07-22,Google Search,Follow-up
+202,2025-07-26,Website,Follow-up
+203,2025-07-08,Facebook,Lost
+204,2025-07-20,Referral,Converted
+205,2025-07-09,Instagram,Converted
+206,2025-07-20,Facebook,Lost
+207,2025-07-14,Referral,Follow-up
+208,2025-07-08,Instagram,Converted
+209,2025-07-02,Instagram,Lost
+210,2025-07-25,Walk-in,Follow-up
+211,2025-07-13,Website,Follow-up
+212,2025-07-15,Google Search,Converted
+213,2025-07-12,Walk-in,Lost
+214,2025-07-16,Referral,Lost
+215,2025-07-01,Walk-in,Lost
+216,2025-07-10,Facebook,Lost
+217,2025-07-20,Walk-in,Follow-up
+218,2025-07-18,Instagram,Follow-up
+219,2025-07-19,Referral,Lost
+220,2025-07-15,Website,Lost
+221,2025-07-03,Google Search,Lost
+222,2025-07-02,Instagram,Follow-up
+223,2025-07-04,Instagram,Follow-up
+224,2025-07-02,Referral,Follow-up
+225,2025-07-02,Referral,Follow-up
+226,2025-07-13,Instagram,Follow-up
+227,2025-07-17,Referral,Follow-up
+228,2025-07-22,Instagram,Converted
+229,2025-08-12,Instagram,Lost
+230,2025-08-10,Referral,Lost
+231,2025-08-08,Facebook,Follow-up
+232,2025-08-17,Google Search,Converted
+233,2025-08-28,Referral,Converted
+234,2025-08-19,Referral,Follow-up
+235,2025-08-13,Instagram,Lost
+236,2025-08-25,Facebook,Lost
+237,2025-08-10,Facebook,Follow-up
+238,2025-08-28,Instagram,Follow-up
+239,2025-08-20,Facebook,Converted
+240,2025-08-09,Instagram,Follow-up
+241,2025-08-08,Instagram,Lost
+242,2025-08-08,Facebook,Follow-up
+243,2025-08-05,Google Search,Lost
+244,2025-08-03,Walk-in,Converted
+245,2025-08-04,Google Search,Converted
+246,2025-08-13,Instagram,Converted
+247,2025-08-25,Google Search,Follow-up
+248,2025-08-23,Referral,Lost
+249,2025-08-10,Instagram,Lost
+250,2025-08-04,Referral,Lost
+251,2025-08-03,Instagram,Follow-up
+252,2025-08-15,Website,Follow-up
+253,2025-08-25,Instagram,Follow-up
+254,2025-08-25,Referral,Lost
+255,2025-08-26,Referral,Follow-up
+256,2025-08-21,Google Search,Converted
+257,2025-08-18,Instagram,Follow-up
+258,2025-08-18,Walk-in,Follow-up
+259,2025-08-02,Walk-in,Converted
+260,2025-08-07,Instagram,Converted
+261,2025-08-09,Instagram,Follow-up
+262,2025-08-24,Referral,Converted
+263,2025-08-18,Google Search,Follow-up
+264,2025-08-18,Instagram,Follow-up
+265,2025-09-07,Google Search,Lost
+266,2025-09-17,Facebook,Follow-up
+267,2025-09-03,Instagram,Converted
+268,2025-09-24,Instagram,Follow-up
+269,2025-09-06,Instagram,Follow-up
+270,2025-09-13,Referral,Follow-up
+271,2025-09-04,Referral,Follow-up
+272,2025-09-13,Instagram,Lost
+273,2025-09-05,Instagram,Lost
+274,2025-09-24,Walk-in,Lost
+275,2025-09-10,Website,Converted
+276,2025-09-02,Referral,Lost
+277,2025-09-02,Instagram,Lost
+278,2025-09-18,Instagram,Follow-up
+279,2025-09-15,Referral,Converted
+280,2025-09-12,Google Search,Follow-up
+281,2025-09-19,Google Search,Follow-up
+282,2025-09-24,Website,Follow-up
+283,2025-09-12,Instagram,Converted
+284,2025-09-07,Walk-in,Converted
+285,2025-09-25,Google Search,Follow-up
+286,2025-09-05,Referral,Follow-up
+287,2025-09-22,Website,Lost
+288,2025-09-27,Walk-in,Follow-up
+289,2025-09-18,Referral,Follow-up
+290,2025-09-02,Facebook,Follow-up
+291,2025-09-07,Website,Converted
+292,2025-09-06,Referral,Converted
+293,2025-09-18,Google Search,Follow-up
+294,2025-09-15,Instagram,Lost
+295,2025-09-13,Instagram,Converted
+296,2025-09-01,Instagram,Lost
+297,2025-10-28,Instagram,Lost
+298,2025-10-18,Referral,Converted
+299,2025-10-19,Facebook,Converted
+300,2025-10-04,Google Search,Follow-up
+301,2025-10-13,Instagram,Converted
+302,2025-10-01,Referral,Converted
+303,2025-10-16,Walk-in,Lost
+304,2025-10-14,Instagram,Follow-up
+305,2025-10-09,Google Search,Converted
+306,2025-10-14,Walk-in,Follow-up
+307,2025-10-15,Website,Converted
+308,2025-10-08,Walk-in,Lost
+309,2025-10-21,Facebook,Lost
+310,2025-10-02,Facebook,Converted
+311,2025-10-09,Instagram,Converted
+312,2025-10-06,Google Search,Lost
+313,2025-10-25,Facebook,Follow-up
+314,2025-10-27,Instagram,Converted
+315,2025-10-02,Website,Lost
+316,2025-10-17,Google Search,Converted
+317,2025-10-03,Instagram,Follow-up
+318,2025-10-24,Walk-in,Follow-up
+319,2025-10-22,Website,Lost
+320,2025-10-21,Google Search,Converted
+321,2025-10-02,Instagram,Follow-up
+322,2025-10-10,Website,Converted
+323,2025-10-15,Instagram,Lost
+324,2025-10-05,Google Search,Follow-up
+325,2025-10-18,Instagram,Follow-up
+326,2025-10-15,Website,Lost
+327,2025-10-07,Instagram,Follow-up
+328,2025-10-02,Google Search,Lost
+329,2025-11-26,Referral,Follow-up
+330,2025-11-05,Referral,Follow-up
+331,2025-11-28,Referral,Converted
+332,2025-11-08,Referral,Follow-up
+333,2025-11-26,Google Search,Lost
+334,2025-11-18,Instagram,Converted
+335,2025-11-19,Walk-in,Converted
+336,2025-11-10,Walk-in,Converted
+337,2025-11-19,Website,Follow-up
+338,2025-11-10,Google Search,Lost
+339,2025-11-25,Referral,Follow-up
+340,2025-11-18,Facebook,Follow-up
+341,2025-11-11,Referral,Lost
+342,2025-11-13,Instagram,Follow-up
+343,2025-11-20,Website,Converted
+344,2025-11-18,Instagram,Lost
+345,2025-11-18,Instagram,Converted
+346,2025-11-23,Walk-in,Lost
+347,2025-11-23,Google Search,Follow-up
+348,2025-11-18,Walk-in,Follow-up
+349,2025-11-02,Referral,Follow-up
+350,2025-11-23,Instagram,Follow-up
+351,2025-11-25,Referral,Follow-up
+352,2025-11-02,Facebook,Follow-up
+353,2025-11-05,Facebook,Lost
+354,2025-11-04,Google Search,Converted
+355,2025-11-22,Walk-in,Converted
+356,2025-11-11,Google Search,Follow-up
+357,2025-11-02,Instagram,Follow-up
+358,2025-11-26,Instagram,Converted
+359,2025-12-22,Instagram,Converted
+360,2025-12-19,Referral,Converted
+361,2025-12-25,Instagram,Follow-up
+362,2025-12-26,Walk-in,Converted
+363,2025-12-03,Referral,Converted
+364,2025-12-27,Facebook,Follow-up
+365,2025-12-27,Google Search,Follow-up
+366,2025-12-23,Google Search,Converted
+367,2025-12-10,Google Search,Converted
+368,2025-12-25,Instagram,Follow-up
+369,2025-12-20,Google Search,Lost
+370,2025-12-18,Referral,Follow-up
+371,2025-12-12,Referral,Lost
+372,2025-12-23,Google Search,Lost
+373,2025-12-18,Referral,Follow-up
+374,2025-12-06,Instagram,Follow-up
+375,2025-12-12,Instagram,Follow-up
+376,2025-12-11,Walk-in,Follow-up
+377,2025-12-19,Walk-in,Follow-up
+378,2025-12-08,Instagram,Lost
+379,2025-12-27,Facebook,Lost
+380,2025-12-22,Website,Lost
+381,2025-12-03,Walk-in,Follow-up
+382,2025-12-23,Referral,Converted
+383,2025-12-11,Referral,Lost
+384,2025-12-11,Facebook,Follow-up
+385,2025-12-01,Referral,Converted
+386,2025-12-28,Instagram,Converted

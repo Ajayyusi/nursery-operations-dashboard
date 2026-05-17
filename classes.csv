@@ -1,0 +1,8 @@
+class_id,class_name,level,capacity
+1,Toddlers A,Toddler,18
+2,Toddlers B,Toddler,18
+3,Pre-KG A,Pre-KG,20
+4,Pre-KG B,Pre-KG,20
+5,KG1 A,KG1,22
+6,KG1 B,KG1,22
+7,KG2 A,KG2,24
