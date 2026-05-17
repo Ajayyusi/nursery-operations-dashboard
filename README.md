@@ -1,3 +1,6 @@
+<img width="2933" height="1655" alt="nursery_operations_dashboard" src="https://github.com/user-attachments/assets/a2499680-d56e-42da-b2ab-1b8995d50b0d" />
+
+
 # Nursery Operations Dashboard
 
 ## Project Overview
